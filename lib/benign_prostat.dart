@@ -31,7 +31,7 @@ class BenignView extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text("Anamnesis",
-                    style: TextStyle(fontWeight: FontWeight.w500)),
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 const SizedBox(
                   height: 8,
                 ),
@@ -44,7 +44,7 @@ class BenignView extends StatelessWidget {
                   height: 16,
                 ),
                 const Text("Pemeriksaan Fisik",
-                    style: TextStyle(fontWeight: FontWeight.w500)),
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 const SizedBox(
                   height: 8,
                 ),
@@ -75,7 +75,7 @@ class BenignView extends StatelessWidget {
                   height: 16,
                 ),
                 const Text("Pemeriksaan Penunjang",
-                    style: TextStyle(fontWeight: FontWeight.w500)),
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 const SizedBox(
                   height: 8,
                 ),
@@ -88,7 +88,7 @@ class BenignView extends StatelessWidget {
                   height: 16,
                 ),
                 const Text("Diagnosis",
-                    style: TextStyle(fontWeight: FontWeight.w500)),
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 const SizedBox(
                   height: 8,
                 ),
@@ -98,7 +98,7 @@ class BenignView extends StatelessWidget {
                   height: 16,
                 ),
                 const Text("Diagnosis Banding",
-                    style: TextStyle(fontWeight: FontWeight.w500)),
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 const SizedBox(
                   height: 8,
                 ),
@@ -109,7 +109,7 @@ class BenignView extends StatelessWidget {
                   height: 16,
                 ),
                 const Text("Tatalaksana",
-                    style: TextStyle(fontWeight: FontWeight.w500)),
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 const SizedBox(
                   height: 8,
                 ),
